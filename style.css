@@ -53,11 +53,31 @@
     background-color: white;
     flex-direction: column;
     justify-content: center;
-    padding: 100px 100px 50px 100px;
+    padding: 80px 100px 50px 100px;
     margin: auto;
     width: 500px;
     border-radius: 40px;
     opacity: 85%;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2em;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.2em;
+}
+
+#author {
+    margin-top: 50px;
+    font-weight: 700;
+    font-size: 1.5em;
 }
 
 .social {
